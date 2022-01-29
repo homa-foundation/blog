@@ -1,7 +1,7 @@
 <style>
- body{
-  dir:"auto"
- }
+ body {
+  dir: auto
+}
 </style>
  با استفاده از attribute dir با مقدار auto در HTML می تونید به طور خودکار RTL رو هم داشته باشید.
 
