@@ -1,3 +1,7 @@
+ <div dir="auto">
+                با استفاده از attribute dir با مقدار auto در HTML می تونید به طور خودکار RTL رو هم داشته باشید.
+  </div>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/homa-foundation/blog/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
